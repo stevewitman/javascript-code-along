@@ -1,0 +1,22 @@
+# Programming Basics
+- ### Datatypes
+  - Numbers
+  - Strings
+  - Arrays
+- ### Operators
+  - '+' Addition
+  - '*' Division
+  - '++' Increment
+- ### Variables
+  - n
+  - i
+  - firstName
+- ### Conditional Statements
+  - if ... else if ... else
+- ### Loops
+  - For loop
+  - While loop
+- ### Functions
+  - Arguments
+  - return vs. console.log()
+- ### Built-in JavaScript Methods
