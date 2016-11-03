@@ -11,3 +11,33 @@ Write a function called **fizzbuzz** that takes an integer as its input.  For mu
 ### Count Characters
 
 Write a function called **characterCount** that counts all the non white space characters in a string.
+
+### isEven
+
+### isOdd
+
+### countCharacter
+
+### daysOfWeek
+
+Sum of two numbers
+
+Product of two numbers
+
+Sum and product
+
+roundUp
+
+toFarenheit
+
+area of Circle
+
+area of triangle
+
+isNumeric
+
+occourencesOfSubstring
+
+lookForDuplicates in array
+
+remove duplicates
